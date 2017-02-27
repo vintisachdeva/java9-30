@@ -1,0 +1,31 @@
+	
+How to identify methods/function--> 
+syntax of method/function:
+
+
+	return_type method/function name(No. of arguments)
+
+	void print()	// defination of function/method
+	{
+		//printing code
+
+	}
+
+
+	print();	//calling of function/method
+
+	
+	public static void main(String args[])
+	{
+	//defining main method/function		
+
+	}
+
+
+ Scanner scanner = new Scanner(System.in);
+
+//scanner object is used to call predefined method
+
+scanner.nextInt();
+
+

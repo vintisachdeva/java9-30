@@ -1,0 +1,11 @@
+
+Scanner scanner  = new Scanner(System.in);
+		  
+		allocate new memory
+				       System class,in->						input
+class name		
+			Constructor of Scanner class
+	   
+	object name
+
+
